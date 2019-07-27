@@ -21,10 +21,6 @@ Notes from research on real time collaboration algorithms
 
 [Concurrency Control in Groupware Systems](https://www.lri.fr/~mbl/ENS/CSCW/2012/papers/Ellis-SIGMOD89.pdf)
 
-[Evaluating CRDTs for Real-time Document Editing](https://hal.archives-ouvertes.fr/file/index/docid/629503/filename/doce63-ahmednacer.pdf)
-
-[Merging OT and CRDT Algorithms](https://hal.inria.fr/hal-00957167/document)
-
 [Wikipedia on Operational Transformation](https://en.wikipedia.org/wiki/Operational_transformation)
 
 ## Conflict-free Replicated Data Type (CRDT)
@@ -32,3 +28,7 @@ Notes from research on real time collaboration algorithms
 ### Articles
 
 [Wikipedia](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+
+[Evaluating CRDTs for Real-time Document Editing](https://hal.archives-ouvertes.fr/file/index/docid/629503/filename/doce63-ahmednacer.pdf)
+
+[Merging OT and CRDT Algorithms](https://hal.inria.fr/hal-00957167/document)
